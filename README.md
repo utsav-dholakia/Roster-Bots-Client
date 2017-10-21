@@ -1,3 +1,5 @@
+#Roster-Bots-Client
+
 This is a client side application for creating roster of bots with generic attributes.
 
 The user can give team name which will be prefixed to digits and bots will be generated with those names. There are 3 attributes to each bot : Speed, Strength and Agility.
